@@ -1,1 +1,3 @@
 Test
+function a() {
+}
